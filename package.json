@@ -1,0 +1,19 @@
+{
+	"name":"wildhacks",
+	"version":"0.0.0",
+	"description":"data.gov info",
+	"main": "server.js",
+	"author": "Aimee Pierce",
+	"dependencies":{
+		"express":"^4.13.4",
+		"fast-csv":"3.10.9"
+	},
+	"engines": {
+		"node":"4.6.1"
+	},
+	"repository": {
+	  "type": "git",
+	  "url": "git://github.com/aimeerpierce/wi_fl_ia_wildhacks.git"
+	},
+	"license":"UNLICENSED"
+}
